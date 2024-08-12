@@ -48,3 +48,23 @@ In the initial data preparation phase, we performed the following tasks:
 📍**Genres Available -** 20
 
 📍**Publisher -** 3342 company that markets and distributes the game
+
+### Insights
+
+✨ The top 10 publishers by global sales include Activision, Electronic Arts, EA Sports, Ubisoft, THQ, Sony Computer Entertainment, Rockstar Games, Konami, Sega, and Nintendo.
+
+✨ America had the highest total sales at 3.34k units. Europe followed with 1.91k units, and Japan with 685 units.
+
+✨ In America, the top-selling genres are Sports, Action, Shooter, Miscellaneous, and Racing.
+
+✨ In Europe and Africa, the top-selling consoles are PS3, PS2, X360, PS4, and PS.
+
+✨ In America, the highest monthly sales occur in November.
+
+✨ In 2008, global sales reached the highest level to date with 538 units,since then the industry has been declining in sales.
+
+✨ The sales forecast for 2030 is expected to reach 600 units, indicating a potential growth trend.
+
+## Dashboard
+
+### Page 1 : Overview
