@@ -67,4 +67,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ## Dashboard
 
-### Page 1 : Overview
+### Page 1 : Global Sales
+![Screenshot (96)](https://github.com/user-attachments/assets/b9a29ac6-aed4-4ffa-ac5e-3fc42f665dc8)
+
+### Page 2 : North America Sales
