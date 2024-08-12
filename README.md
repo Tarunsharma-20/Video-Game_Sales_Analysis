@@ -71,3 +71,23 @@ In the initial data preparation phase, we performed the following tasks:
 ![Screenshot (96)](https://github.com/user-attachments/assets/b9a29ac6-aed4-4ffa-ac5e-3fc42f665dc8)
 
 ### Page 2 : North America Sales
+![Screenshot (97)](https://github.com/user-attachments/assets/b05e4630-f0c0-4d1a-af87-1eee47448e04)
+
+### Page 3 : Europe & Africa Sales
+![Screenshot (98)](https://github.com/user-attachments/assets/6066b893-95be-46f0-9111-2a6d0223e372)
+
+### Page 4 : Japan Sales
+![Screenshot (99)](https://github.com/user-attachments/assets/ef4a6af9-4984-4e5a-bed4-de26a58149af)
+
+### Page 5 : Table
+![Screenshot (100)](https://github.com/user-attachments/assets/264360c9-81de-4595-b253-53ddc2f5937e)
+
+### Page 6 : Sales Forecast
+![Screenshot (101)](https://github.com/user-attachments/assets/1d442053-d134-495b-a799-3694020e7456)
+
+**Note:** For understanding Visually checkout the above Visualization.
+
+## Contributors
+- [@Tarunsharma-20](https://github.com/Tarunsharma-20)
+
+Dive into the exciting realm of video game sales and performance data!
