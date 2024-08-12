@@ -36,9 +36,15 @@ In the initial data preparation phase, we performed the following tasks:
 ### Key Performance Indicators
 
 📍**Total Global Sales -** 6.59k
+
 📍**Total American Sales -** 3.34k
+
 📍**Total Europe & African Sales -** 1.91k
+
 📍**Total Japan Sales -** 685.0
+
 📍**Other Sales -** 650.49
+
 📍**Genres Available -** 20
+
 📍**Publisher -** 3342 company that markets and distributes the game
